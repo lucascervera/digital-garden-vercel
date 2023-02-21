@@ -13,8 +13,8 @@ blah
 
 
 content
-
-[[Innovación/Innovación\|Innovación]]
+[[Innovación/Innovación\|Innovación/Innovación]]
+[[Innovación/Fuentes de innovación\|Innovación/Fuentes de innovación]]
 
 # blah
 fsañlj
