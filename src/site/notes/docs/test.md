@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/test/"}
+{"dg-publish":true,"permalink":"/docs/test/","noteIcon":""}
 ---
 
 tetst
