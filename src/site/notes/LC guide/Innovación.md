@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lc-guide/innovacion/","tags":[[["InnBoK"]],[["content"]]],"noteIcon":""}
+{"dg-publish":true,"permalink":"/lc-guide/innovacion/","noteIcon":""}
 ---
 
 
