@@ -6,7 +6,7 @@
 ![[InnBoK/InnBoK methodology/InnBoK content/Innovación/image.png\|InnBoK/InnBoK methodology/InnBoK content/Innovación/image.png]]
 
 
-![Engelbart.jpg](/img/user/docs/Innovaci%C3%B3n/Engelbart.jpg)
+![Engelbart.jpg](/img/user/archive/Engelbart.jpg)
 
 
 - [[640px-Technology-Adoption-Lifecycle.png]]
@@ -18,7 +18,7 @@
 	- [[docs/Innovación/Creatividad/Dibuja a Dios\|Dibuja a Dios]]
 	- [[docs/Innovación/Creatividad/Ideamap\|Ideamap]]
 	- [[docs/Innovación/Creatividad/Ideas de cielo azul\|Ideas de cielo azul]]
-	- [[image.png]]
+	- [[archive/image.png]]
 	- [[docs/Innovación/Creatividad/La creatividad como habilidad\|La creatividad como habilidad]]
 	- [[docs/Innovación/Creatividad/La creatividad se entrena\|La creatividad se entrena]]
 	- [[docs/Innovación/Creatividad/Mismo producto usos alternativos\|Mismo producto usos alternativos]]
@@ -56,7 +56,7 @@
 	- [[docs/Innovación/Espacios de innovación/seguridad\|seguridad]]
 	- [[docs/Innovación/Espacios de innovación/startups\|startups]]
 	- [[docs/Innovación/Espacios de innovación/transporte\|transporte]]
-- [[docs/Innovación/export test\|export test]]
+- [[archive/export test\|export test]]
 - **Fuentes de innovación**
 	- [[docs/Innovación/Fuentes de innovación/Acontecimientos inesperados\|Acontecimientos inesperados]]
 	- [[docs/Innovación/Fuentes de innovación/Ciencia (innovación)\|Ciencia (innovación)]]
@@ -75,7 +75,7 @@
 	- [[docs/Innovación/Idea/Fuentes\|Fuentes]]
 	- [[docs/Innovación/Idea/Oportunidad de negocio\|Oportunidad de negocio]]
 	- [[docs/Innovación/Idea/Riesgo y recompensa\|Riesgo y recompensa]]
-- [[image.png]]
+- [[archive/image.png]]
 - [[docs/Innovación/Tendencias\|Tendencias]]
 - **[[docs/Innovación/Tipos de innovación/Tipos de innovación\|Tipos de innovación]]**
 	- **Tipos de innovación (Clay Christensen)**
