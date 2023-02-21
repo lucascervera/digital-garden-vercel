@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/innovacion/inn-bo-k-test/test-1/test-1/","tags":[[["InnBoK"]],[["content"]]]}
+{"dg-publish":true,"permalink":"/docs/innovacion/inn-bo-k-test/test-1/test-1/","tags":[[["InnBoK"]],[["content"]]],"noteIcon":""}
 ---
 Test 1 sumario
 
