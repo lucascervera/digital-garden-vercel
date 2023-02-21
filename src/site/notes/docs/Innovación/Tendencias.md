@@ -1,9 +1,3 @@
 ---
-dg-publish: true
-share: true
-parent: [[]]
-image-url: 
-tags:
-- [[InnBoK\|InnBoK]]
-- [[content\|content]]
+{"dg-publish":true,"permalink":"/docs/innovacion/tendencias/","tags":[[["InnBoK"]],[["content"]]],"noteIcon":""}
 ---
