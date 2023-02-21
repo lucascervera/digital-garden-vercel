@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/docs/innovacion/creatividad/ideas-de-cielo-azul/","tags":[[["InnBoK"]],[["content"]]]}
+{"dg-publish":true,"permalink":"/docs/innovacion/creatividad/ideas-de-cielo-azul/","tags":[[["InnBoK"]],[["content"]]],"noteIcon":""}
 ---
