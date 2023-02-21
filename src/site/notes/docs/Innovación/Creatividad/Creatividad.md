@@ -4,5 +4,5 @@
 ![[InnBoK/InnBoK methodology/InnBoK content/Innovación/image.png\|InnBoK/InnBoK methodology/InnBoK content/Innovación/image.png]]
 
 
-![Engelbart.jpg](/img/user/docs/Innovaci%C3%B3n/Engelbart.jpg)
+![Engelbart.jpg](/img/user/archive/Engelbart.jpg)
 
