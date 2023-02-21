@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/docs/innovacion/innovacion/","tags":[[["InnBoK"]],[["content"]]]}
+{"dg-publish":true,"permalink":"/docs/innovacion/innovacion/","tags":[[["InnBoK"]],[["content"]]],"noteIcon":""}
 ---
+
+
 ![[InnBoK/InnBoK methodology/InnBoK content/Innovación/image.png\|InnBoK/InnBoK methodology/InnBoK content/Innovación/image.png]]
 
 
