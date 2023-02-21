@@ -2,14 +2,6 @@
 {"dg-publish":true,"permalink":"/lc-guide/innovacion/innovacion/","tags":[[["InnBoK"]],[["content"]]],"noteIcon":""}
 ---
 
-
-![[InnBoK/InnBoK methodology/InnBoK content/Innovación/image.png\|InnBoK/InnBoK methodology/InnBoK content/Innovación/image.png]]
-
-
-![[Engelbart.jpg\|Engelbart.jpg]]
-
-
-- [[640px-Technology-Adoption-Lifecycle.png\|640px-Technology-Adoption-Lifecycle.png]]
 - **[[Creatividad\|Creatividad]]**
 	- [[Borrador\|Borrador]]
 	- [[Brain writing\|Brain writing]]
@@ -83,5 +75,4 @@
 		- [[Innovación de mantenimiento\|Innovación de mantenimiento]]
 		- [[Innovación disruptiva\|Innovación disruptiva]]
 	- [[Tipos de innovación (Clay Christensen)\|Tipos de innovación (Clay Christensen)]]
-
 
