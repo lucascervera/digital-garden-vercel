@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docs/innovacion-1/","tags":[[["InnBoK"]],[["content"]],"gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/docs/innovacion-1/","tags":[[["InnBoK"]],[["content"]],"gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 ![[InnBoK/InnBoK methodology/InnBoK content/Innovación/image.png\|InnBoK/InnBoK methodology/InnBoK content/Innovación/image.png]]
 
