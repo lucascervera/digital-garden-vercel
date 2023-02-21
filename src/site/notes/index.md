@@ -14,8 +14,7 @@ blah
 
 content
 [[Innovación/Innovación\|Innovación/Innovación]]
-[[Innovación/Fuentes de innovación\|Innovación/Fuentes de innovación]]
-
+[[Innovación/Innovación\|Innovación/Innovación]]
 # blah
 fsañlj
 ## blah blah
