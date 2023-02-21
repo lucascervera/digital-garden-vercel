@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/lc-guide/curva-de-adopcion-de-las-innovaciones/","noteIcon":""}
 ---
 
-La Curva de Adopción de Innovaciones es un modelo teórico que describe cómo los nuevos productos, servicios o tecnologías son adoptados por los consumidores y cómo se difunden en una población determinada. El modelo fue propuesto por el sociólogo Everett Rogers en su libro Diffusion of Innovations en 1962.
+La Curva de Adopción de Innovaciones es un modelo teórico que describe cómo los nuevos productos, servicios o tecnologías son adoptados por los consumidores y cómo se difunden en una población determinada. El modelo fue propuesto por el sociólogo Everett Rogers en su libro Diffusion of Innovations en 1962.[[LC guide/Fuentes de innovación\|Fuentes de innovación]]
 
 description:
 La curva de adopción de innovaciones se divide en cinco categorías de consumidores.
