@@ -399,6 +399,7 @@ https://bootdey.com/snippets/view/User-list-page#html
 
 ## https://getbootstrap.com/docs/5.3/components/card/
 
+```
 <div class="card" style="width: 18rem;">
   <img src="..." class="card-img-top" alt="...">
   <div class="card-body">
@@ -408,7 +409,9 @@ https://bootdey.com/snippets/view/User-list-page#html
   </div>
 </div>
 ```
-```html
+
+
+
 <div class="card" style="width: 18rem;">
   <img src="..." class="card-img-top" alt="...">
   <div class="card-body">
