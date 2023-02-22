@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/x-bo-k/x-bo-k-unit-template/web/","noteIcon":"📄"}
 ---
 
-![[image\|image]]
+![image.png](/img/user/xBoK/xBoK%20unit%20template/image.png)
 
 
 ![image](/img/user/xBoK/xBoK unit template/image.png)
