@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lc-guide/innovacion/","noteIcon":""}
+{"dg-publish":true,"permalink":"/lc-guide/innovacion/","noteIcon":"📄"}
 ---
 
 
