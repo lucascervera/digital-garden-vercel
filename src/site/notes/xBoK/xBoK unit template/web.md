@@ -2,9 +2,14 @@
 {"dg-publish":true,"permalink":"/x-bo-k/x-bo-k-unit-template/web/","noteIcon":"📄"}
 ---
 
+
+# 1
+<div>![img]('imag.png')</div>
+
+# 2
 ![image.png](/img/user/xBoK/xBoK%20unit%20template/image.png)
 
-
+# 3
 ![image](/img/user/xBoK/xBoK unit template/image.png)
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
