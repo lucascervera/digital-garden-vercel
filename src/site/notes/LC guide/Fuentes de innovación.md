@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lc-guide/fuentes-de-innovacion/","noteIcon":""}
+{"dg-publish":true,"permalink":"/lc-guide/fuentes-de-innovacion/","noteIcon":"📄"}
 ---
 
 
