@@ -7,7 +7,7 @@
 
 
 
-Marco para la asignación dinámica de acciones.
+## Marco para la asignación dinámica de acciones.
 
 </div></div>
 
